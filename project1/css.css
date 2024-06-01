@@ -1,0 +1,78 @@
+body{
+    background-color: white;
+}
+.title{
+    position: relative;
+    width: 500; height: 300;
+}
+.slogan{
+    position: absolute;
+    left: 110px; 
+    top: 50px;
+}
+.daixanh{
+    position: relative;
+    width: 1000; height: 3000;
+}
+.daixanh{
+    position: absolute;
+    left: 300px;
+    top: 0px;
+}
+.phongxanh{
+    position: relative;
+    width: 200; height: 600;
+}
+.phongxanh{
+    position: absolute;
+    left: 800px;
+    top: 0px;
+}
+.quotes{
+    position: relative;
+    width: auto; height: auto;
+}
+.quotes{
+    position: absolute;
+    left: 50px;
+    top: auto;
+}
+.MinhAn{
+    position: absolute;
+    left: 1050px;
+    top: 50px;
+}
+.Bao{
+    position: absolute;;
+    left: 1050px;
+    top: 200px;
+}
+.Nhi{
+    position: absolute;
+    left: 1050px;
+    top: 310px;
+}
+.Tu{
+    position: absolute;
+    left: 1170px;
+    top: 200px ;
+}
+.Tuong{
+    position: absolute;
+    left: 1050px;
+    top: 440px ;
+}
+.Nhan{
+    position: absolute;
+    left: 1180px;
+    top: 440px;
+}
+.wafp{
+    position: absolute;
+    left: 1350px;
+    top: 50px;
+}
+.wafp{
+    font-size: 50px;
+    color: brown;
+}
