@@ -1,5 +1,5 @@
 body {
-    background-color: #ccffcc;
+    background-color: #e6e6e6;
 }
 
 header {
@@ -13,7 +13,9 @@ header {
     --smooth_greyblue: all .3s ease-in;
     --smooth_red: all .3s ease-in-out;
 }
-
+.logo{
+    border-radius: 50px;
+}
 ol {
     list-style-type: none;
     margin: 13px;
@@ -49,7 +51,7 @@ li.dropdown {
 .dropdown-content {
     display: none;
     position: absolute;
-    left: 49%;
+    left: 44%;
     background-color: coral;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px var(--green);
